@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Audio Junction", "Audio Junction\Audio Junction.csproj", "{23BBB850-FA73-439D-AF9C-028474DC05FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Audio Junction.Tests", "Audio Junction.Tests\Audio Junction.Tests.csproj", "{4BAC2F6F-C008-4889-8EB7-A8A40F161907}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Testing|Any CPU = Testing|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23BBB850-FA73-439D-AF9C-028474DC05FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23BBB850-FA73-439D-AF9C-028474DC05FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23BBB850-FA73-439D-AF9C-028474DC05FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23BBB850-FA73-439D-AF9C-028474DC05FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23BBB850-FA73-439D-AF9C-028474DC05FC}.Testing|Any CPU.ActiveCfg = Testing|Any CPU
+		{23BBB850-FA73-439D-AF9C-028474DC05FC}.Testing|Any CPU.Build.0 = Testing|Any CPU
+		{4BAC2F6F-C008-4889-8EB7-A8A40F161907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BAC2F6F-C008-4889-8EB7-A8A40F161907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BAC2F6F-C008-4889-8EB7-A8A40F161907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BAC2F6F-C008-4889-8EB7-A8A40F161907}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BAC2F6F-C008-4889-8EB7-A8A40F161907}.Testing|Any CPU.ActiveCfg = Testing|Any CPU
+		{4BAC2F6F-C008-4889-8EB7-A8A40F161907}.Testing|Any CPU.Build.0 = Testing|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
